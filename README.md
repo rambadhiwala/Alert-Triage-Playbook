@@ -1,4 +1,4 @@
-# Alert Triage Playbooks (SOC Gold ⭐⭐⭐⭐⭐)
+# Alert Triage Playbooks (SOC Gold)
 
 This repository contains **day-to-day SOC alert triage playbooks** designed for real-world Security Operations Centers, with a strong focus on **banking and enterprise environments**.
 
